@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CDB_UI/1.0.0": {
+        "dependencies": {
+          "Teste_CBD_Library": "1.0.0"
+        },
+        "runtime": {
+          "CDB_UI.dll": {}
+        }
+      },
+      "Teste_CBD_Library/1.0.0": {
+        "runtime": {
+          "Teste_CBD_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CDB_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Teste_CBD_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
